@@ -3,7 +3,7 @@
 This template uses
 
 * [Akka Persistence](https://doc.akka.io/docs/akka/2.5/persistence.html?language=scala) for persistent actors,
-* [Docker compose](https://docs.docker.com/compose) Compose file for defining and running Cassandra,
+* [Docker compose](https://docs.docker.com/compose) for running Cassandra,
 * [Cassandra](https://cassandra.apache.org/doc/latest) as NoSQL database.
 
 ## Getting started
